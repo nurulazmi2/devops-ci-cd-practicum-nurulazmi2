@@ -51,6 +51,7 @@
 
 ### Screenshot Hasil:
 - **Output `docker compose ps`**
-  ![Compose PS](screenshots/05-compose-ps.png)
+  ![Compose PS](screenshots/05-compose-ps1.png)
 - **Browser mengakses services**
   ![Compose Services](screenshots/06-compose-services.png)
+
